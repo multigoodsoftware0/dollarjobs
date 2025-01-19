@@ -14,7 +14,7 @@ Dollarjobs was a jobs board launched in 2019 as a clone of weworkremotely but fo
 
 # updates
 
-- this project ~~might be updated~~ was updated to Ruby on Rails 8 showcasing _how to update a Rails 6 app to Rails 8_. See the Diff here - [https://github.com/bestwebventures0/dollarjobs/compare/main...upgrade_to_rails_8](https://github.com/bestwebventures0/dollarjobs/compare/main...upgrade_to_rails_8).
+- this project ~~might be updated~~ was updated to Ruby on Rails 8 showcasing _how to update a Rails 6 app to Rails 8_. See the Diff here - [https://github.com/railsforgedev/dollarjobs/compare/main...upgrade_to_rails_8](https://github.com/railsforgedev/dollarjobs/compare/main...upgrade_to_rails_8).
 - we have no intentions to move jquery to stimulus, as of now, because jquery gets our job done and we do NOT want to make our code complex for simple JS tasks.
 - if you want to use Stripe than Razorpay then feel free to fork this project and contribute.
 - we are using bootstrap5 and have no intentions of using tailwindcss for this project (though we started using tailwindcss for all our projects post 2022).
